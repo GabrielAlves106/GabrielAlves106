@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Gabriel&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Atualmente cursando Desenvolvimento de Software na Fatec Luigi Papaiz <br/> Desenvolvedor Backend Jr.</p>
+<p>Atualmente cursando Desenvolvimento de Software na Fatec Luigi Papaiz <br/> Desenvolvedor De Software.</p>
