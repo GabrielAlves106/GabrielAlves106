@@ -1,5 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=GabrielAlves106&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielAlves106&theme=iceberg&hide_border=true&border_radius=3.1)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielAlves106&theme=iceberg&hide_border=true&border_radius=3.1" alt="GitHub Streak" /></a>
 
 ### Olá, meu nome é Gabriel Alves!
 
