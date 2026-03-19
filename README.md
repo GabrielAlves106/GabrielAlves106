@@ -1,17 +1,17 @@
 # README
 
-## Skills
-- Skill 1
-- Skill 2
-- Skill 3
-
+## Languages
+- Java
+- JavaScript
+- Python
+  
 ## Technologies
-- Technology 1
-- Technology 2
-- Technology 3
+- SpringBoot
+- NodeJs
+- MySQL
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielAlves106&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielAlves106&show_icons=true&theme=black)
 
 ## Contact Information
 - Email: example@example.com
