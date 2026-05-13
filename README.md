@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma (FATEC Luigi Papaiz)** e formado como **Técnico em Informática(SENAC SANTO ANDRRÉ JK)**.   
+Sou estudante de **Desenvolvimento de Software Multiplataforma (FATEC Luigi Papaiz)** e formado como **Técnico em Informática(SENAC SANTO ANDRÉ)**.   
   
 Atuo desenvolvendo sistemas, aprendendo novas tecnologias diariamente e criando soluções práticas, escaláveis e com boa arquitetura.
 
