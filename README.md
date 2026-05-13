@@ -44,7 +44,9 @@ Sistema que utiliza IA para padronizar prontuários médicos e facilitar a comun
 - Front-end em HTML/CSS/JS (migração para React)  
 - API Python para integração com IA  
 - Arquitetura documentada com BPMN e visão de processos  
-- Foco em acessibilidade, UX e eficiência  
+- Foco em acessibilidade, UX e eficiência
+
+  
 
 ### **Maratona InterFatecs 2025**
 Representante da FATEC em competição de algoritmos e lógica utilizando Python.  
@@ -63,7 +65,7 @@ Desenvolvimento de soluções eficientes para desafios de tempo e otimização.
 
 ## 📬 Me encontre aqui
 
-📌 **LinkedIn:** https://linkedin.com/in/eduardo-tebexerini  
-📧 **E-mail:** eduardo300tebex3@gmail.com  
+📌 **LinkedIn:** www.linkedin.com/in/gabriel-alves111 
+📧 **E-mail:** gabrielrodriguesalves530@gmail.com
 
 ---
